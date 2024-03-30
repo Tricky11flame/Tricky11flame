@@ -2,7 +2,9 @@
 - 👀 I’m interested in WebDev
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.instagram.com/ktk00.4
+- 📫 How to reach me https://www.linkedin.com/in/kartikay-thakur-438314257/
+- 🐦 How to reach me https://twitter.com/TrickyFlame21
+
 
 <!---
 Tricky11flame/Tricky11flame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
