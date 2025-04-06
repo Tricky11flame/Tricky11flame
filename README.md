@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @Tricky11flame
-- 👀 I’m a Full Stack Developer
-- 🌱 Java DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/kartikay-thakur-438314257/
-- 🐦 How to reach me https://twitter.com/TrickyFlame21
+<p align="center">
+  <img src="https://github.com/Tricky11flame/Tricky11flame/blob/main/linkin.png" alt="Banner" />
+</p>
 
+# 👋 Hey, I’m Kartikay Thakur
 
-<!---
-Tricky11flame/Tricky11flame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Full Stack Developer** who loves building, breaking, and fixing things on the web. Currently diving deep into **Java DSA**, exploring the world of **cloud computing**, and always up for a new challenge.
+
+---
+
+## 🔧 Tech Stack
+- ⚛️ React | Next.js | Tailwind CSS  
+- 🛠️ Node.js | Express | FastAPI  
+- 🗃️ MongoDB | PostgreSQL | Firebase  
+- ☁️ Exploring Cloudflare | AWS  
+- 💻 VS Code | GitHub | Postman  
+
+---
+
+## 🌱 Currently
+- Grinding Java DSA 🧠  
+- Learning cloud-native tools ☁️  
+- Building cool full stack projects 🧩  
+
+---
+
+## 🤝 Let's Connect
+- 📬 [LinkedIn](https://www.linkedin.com/in/kartikay-thakur-438314257/)  
+- 🐦 [Twitter](https://twitter.com/TrickyFlame21)
+
+---
+
+> “Code like a poet. Debug like a detective. Deploy like a boss.” 🚀
