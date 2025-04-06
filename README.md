@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;TailwindCSS+%7C+MongoDB+%7C+SQL+%7C+AWS+Learner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Typescript+%7C+Next.js+%7C+PostgreSQL;Preparing+for+CCNA+%7C+SAA-03+%7C+DA-02"/>
 </p>
 
 ---
@@ -36,4 +36,4 @@ I'm a **Full Stack Developer** who loves building, breaking, and fixing things o
 
 ---
 
-> “Code like a poet. Debug like a detective. Deploy like a boss.” 🚀
+> “Product and Peace”
