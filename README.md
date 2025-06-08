@@ -8,32 +8,31 @@
 
 ---
 
-# 👋 Hey, I’m Kartikay Thakur
+# I’m Kartikay Thakur
 
-I'm a **Full Stack Developer** who loves building, breaking, and fixing things on the web. Currently diving deep into **Java DSA**, exploring the world of **cloud computing**, and always up for a new challenge.
-
----
-
-## 🔧 Tech Stack
-- ⚛️ React | Next.js | Tailwind CSS  
-- 🛠️ Node.js | Express | FastAPI  
-- 🗃️ MongoDB | PostgreSQL | Firebase  
-- ☁️ Exploring Cloudflare | AWS  
-- 💻 VS Code | GitHub | Postman  
+- a truly **Full Stack Developer** who loves building, breaking, and fixing things on the web.
+- The dreams is to be a somewhat of a complete package that can have a say on the table throughout the whole lifecycle of a web product
+- Currently diving deep into typescript backends and cloud and always up for a new challenge.
+- Handling figma to code conversion making PRD's myself.
 
 ---
 
-## 🌱 Currently
-- Grinding Java DSA 🧠  
-- Learning cloud-native tools ☁️  
-- Building cool full stack projects 🧩  
+## Tech Journey 
+- Java : primary Language for DSA and Leetcode
+- C | Python  : for academics
+- HTML,CSS,JS  : The Web Dev Stack
+- React.js | Tailwind | MongoDB  : heading towards the MERN Stack  
+- Node.js | Express | PostgreSQL  : spearheaded through backend
+- Firebase | Next.js | Typescript  : Fully Fledged  FullStack Developer
+- AWS | Python  Cloud is gonna be a important leverage
+- 
 
 ---
 
 ## 🤝 Let's Connect
-- 📬 [LinkedIn](https://www.linkedin.com/in/kartikay-thakur-438314257/)  
-- 🐦 [Twitter](https://twitter.com/TrickyFlame21)
-
+- [LinkedIn](https://www.linkedin.com/in/kartikay-thakur-flame/)  
+- [Twitter](https://twitter.com/TrickyFlame21)
+- [Email](sky.kartikay@gmail.com)
 ---
 
 > “Product and Peace”
