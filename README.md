@@ -6,8 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Typescript+%7C+Next.js+%7C+PostgreSQL;Preparing+for+CCNA+%7C+SAA-03+%7C+DA-02"/>
 </p>
 
-# I’m Kartikay Thakur
-
+# Who am i ? 
+## tldr : Typescipt | Product | Engineering
+- I am Kartikay Thakur.
 - a truly **Full Stack Developer** who loves building, breaking, and fixing things on the web.
 - The dreams is to be a somewhat of a complete package that can have a say on the table throughout the whole lifecycle of a web product
 - Currently diving deep into typescript backends and cloud and always up for a new challenge.
