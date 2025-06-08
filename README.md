@@ -15,21 +15,25 @@
 - Currently diving deep into typescript backends and cloud and always up for a new challenge.
 - Handling figma to code conversion making PRD's myself.
 
+# Education
+- 4th year Student at NSUT, Delhi (formerly NSIT, Delhi) Completeing Graduation in 2026 
+- President at Subhasha : The Literature Society,NSUT
+- Technical Head at Nakshatra : The Astro & Maths Society, NSUT
+- Head of Fine Arts at Canvas : The Fine Arts Society , NSUT
 ---
 
-## Tech Journey 
+# Tech Journey 
 - Java : primary Language for DSA and Leetcode
 - C | Python  : for academics
-- HTML,CSS,JS  : The Web Dev Stack
+- HTML | CSS | javaScript  : The Web Dev Stack
 - React.js | Tailwind | MongoDB  : heading towards the MERN Stack  
 - Node.js | Express | PostgreSQL  : spearheaded through backend
 - Firebase | Next.js | Typescript  : Fully Fledged  FullStack Developer
 - AWS | Python  Cloud is gonna be a important leverage
-- 
 
 ---
 
-## 🤝 Let's Connect
+# Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/kartikay-thakur-flame/)  
 - [Twitter](https://twitter.com/TrickyFlame21)
 - [Email](sky.kartikay@gmail.com)
