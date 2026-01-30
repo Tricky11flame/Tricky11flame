@@ -6,32 +6,43 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Typescript+%7C+Next.js+%7C+PostgreSQL;Preparing+for+CCNA+%7C+SAA-03+%7C+DA-02"/>
 </p>
 
-# Who am i ? 
-## tldr : Typescipt | Product | Engineering
-- I am Kartikay Thakur.
-- a truly **Full Stack Developer** who loves building, breaking, and fixing things on the web.
-- The dreams is to be a somewhat of a complete package that can have a say on the table throughout the whole lifecycle of a web product
-- Currently diving deep into typescript backends and cloud and always up for a new challenge.
-- Handling figma to code conversion making PRD's myself.
+---
 
-# Education
-- 4th year Student at NSUT, Delhi (formerly NSIT, Delhi) Completeing Graduation in 2026 
-- President at Subhasha : The Literature Society,NSUT
-- Technical Head at Nakshatra : The Astro & Maths Society, NSUT
-- Head of Fine Arts at Canvas : The Fine Arts Society , NSUT
+## ⚡ Executive Summary
+**Typescript | Product | Engineering**
 
-# Tech Journey 
-- Java : primary Language for DSA and Leetcode
-- C | Python  : for academics
-- HTML | CSS | javaScript  : The Web Dev Stack
-- React.js | Tailwind | MongoDB  : heading towards the MERN Stack  
-- Node.js | Express | PostgreSQL  : spearheaded through backend
-- Firebase | Next.js | Typescript  : Fully Fledged  FullStack Developer
-- AWS | Python  Cloud is gonna be a important leverage
+* **Identity:** Kartikay Thakur, a Full-Stack Developer focused on the architecture and resilience of web products.
+* **Vision:** Operating across the entire product lifecycle—from drafting PRDs and Figma-to-code conversions to deploying scalable cloud backends.
+* **Current Focus:** Deep-diving into TypeScript ecosystems and Cloud infrastructure.
 
-# Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/kartikay-thakur-flame/)  
-- [Twitter](https://twitter.com/TrickyFlame21)
-- [Email](sky.kartikay@gmail.com)
+---
+
+## 🛠 Tech Stack
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Languages** | Java (DSA), TypeScript, JavaScript, Python, C |
+| **Frontend** | React.js, Next.js, Tailwind CSS, HTML5/CSS3 |
+| **Backend** | Node.js, Express, PostgreSQL, MongoDB, Firebase |
+| **Cloud/Infra** | AWS, CCNA (Prep), SAA-C03 (Prep) |
+
+---
+
+## 🎓 Education & Leadership
+**NSUT, Delhi (formerly NSIT)** *B.Tech | Class of 2026*
+
+* **President:** Subhasha (The Literature Society)
+* **Technical Head:** Nakshatra (The Astro & Maths Society)
+* **Head of Fine Arts:** Canvas (The Fine Arts Society)
+
+---
+
+## 🌐 Connectivity
+
+<p align="left">
+<a href="https://www.linkedin.com/in/kartikay-thakur-flame/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/TrickyFlame21"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="mailto:sky.kartikay@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 > “Product and Peace”
