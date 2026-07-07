@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Typescript+%7C+Node.js+React.js%7C;Voice+AI+%7C+Telephony;AWS+%7C+Livekit+%7C+Daily"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Typescript+%7C+Node.js+%7C+React.js;Voice+AI+%7C+Telephony+%7C+WebRTC+%7C+SIP;AWS+%7C+Livekit+%7C+Daily"/>
 </p>
 
 ---
