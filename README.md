@@ -3,17 +3,28 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Typescript+%7C+Next.js+%7C+PostgreSQL;Preparing+for+CCNA+%7C+SAA-03+%7C+DA-02"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Typescript+%7C+React+%7C+Node.js;Voice+AI+%7C+AWS+Cloud+Practitioner"/>
 </p>
 
 ---
 
 ## ⚡ Executive Summary
-**Typescript | Product | Engineering**
 
-* **Identity:** Kartikay Thakur, a Full-Stack Developer focused on the architecture and resilience of web products.
-* **Vision:** Operating across the entire product lifecycle—from drafting PRDs and Figma-to-code conversions to deploying scalable cloud backends.
-* **Current Focus:** Deep-diving into TypeScript ecosystems and Cloud infrastructure.
+**Typescript | Voice AI | Product Engineering**
+
+* **Identity:** Kartikay Thakur, a Full-Stack Developer focused on building resilient web products and scalable AI voice pipelines.
+* **Experience:** Shipped scalable backends for pre-seed startups, built pixel-perfect UIs for YC-backed companies, and currently engineering end-to-end Voice AI lead qualification agents.
+* **Current Focus:** Deep-diving into Voice AI ecosystems, WebSockets, and Cloud infrastructure.
+
+---
+
+## 💼 Experience
+
+| Role | Company | Timeline | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **Full Stack Developer Intern** | Avataar Skincare *(Shark Tank S3)* | May 2026 - Present | Node.js, Python, FreeSwitch, Pipecat, Voice AI, Hugging Face |
+| **Frontend Developer Intern** | BrandContext *(YC W26)* | Feb 2026 - May 2026 | React.js, Next.js, WebSockets, Tailwind CSS, TypeScript |
+| **Backend Developer Intern** | Sponsica *(Pre-Seed)* | May 2025 - Aug 2025 | TypeScript, Express.js, PostgreSQL, Prisma ORM |
 
 ---
 
@@ -21,19 +32,41 @@
 
 | Layer | Technologies |
 | :--- | :--- |
-| **Languages** | Java (DSA), TypeScript, JavaScript, Python, C |
+| **Languages** | TypeScript, JavaScript, Python, Java, SQL, C |
 | **Frontend** | React.js, Next.js, Tailwind CSS, HTML5/CSS3 |
-| **Backend** | Node.js, Express, PostgreSQL, MongoDB, Firebase |
-| **Cloud/Infra** | AWS, CCNA (Prep), SAA-C03 (Prep) |
+| **Backend** | Node.js, Express.js, PostgreSQL, MongoDB, Redis |
+| **AI & Voice** | Hugging Face, RAG, Pipecat, FreeSwitch, LLMs |
+| **Cloud/Infra** | AWS, Docker, Git |
+
+---
+
+## 🚀 Projects & Publications
+
+| Title | Type | Details & Tech Stack |
+| :--- | :--- | :--- |
+| **YOLO Architectures for Aerial Imagery** | Publication | Presented at the 8th International Conf. on Image Information Processing (ICIIP) - Oct 2025 |
+| **Plan for Prep** | Project | React.js, TypeScript. Offline flashcard system for fast revision; built JSON converters for MCQ booklets. |
+| **Decision Analyser** | Project | React.js, Redux, MongoDB. Custom tier list platform with nested drag-and-drop and dynamic config storage. |
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer | Date |
+| :--- | :--- | :--- |
+| **AWS Certified Cloud Practitioner** | AWS Training and Certification | March 2025 |
+| **0–100 Full Stack Web Development** | 100xDevs | Oct 2024 |
+| **NodeJS Internals and Architecture** | Udemy | Oct 2024 |
 
 ---
 
 ## 🎓 Education & Leadership
-**NSUT, Delhi (formerly NSIT)** *B.Tech | Class of 2026*
 
-* **President:** Subhasha (The Literature Society)
-* **Technical Head:** Nakshatra (The Astro & Maths Society)
-* **Head of Fine Arts:** Canvas (The Fine Arts Society)
+**NSUT, Delhi** *(B.Tech | Class of 2026)*
+
+* **President:** Subhasha (The Literary Society) | *May 2025 – Aug 2025*
+* **Fine Arts Head:** Canvas (The Fine Arts Society) | *Aug 2024 – Jul 2025*
+* **Technical Head:** Nakshatra (The Astronomy Society) | *May 2024 – Mar 2025*
 
 ---
 
