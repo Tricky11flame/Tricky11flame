@@ -3,18 +3,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Typescript+%7C+React+%7C+Node.js;Voice+AI+%7C+AWS+Cloud+Practitioner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Typescript+%7C+Node.js+React.js%7C;Voice+AI+%7C+Telephony;AWS+%7C+Livekit+%7C+Daily"/>
 </p>
 
 ---
 
-## ⚡ Executive Summary
+## ⚡ Professional Summary
 
 **Typescript | Voice AI | Product Engineering**
 
 * **Identity:** Kartikay Thakur, a Full-Stack Developer focused on building resilient web products and scalable AI voice pipelines.
 * **Experience:** Shipped scalable backends for pre-seed startups, built pixel-perfect UIs for YC-backed companies, and currently engineering end-to-end Voice AI lead qualification agents.
-* **Current Focus:** Deep-diving into Voice AI ecosystems, WebSockets, and Cloud infrastructure.
+* **Current Focus:** Deep-diving into Voice AI ecosystems, Telephony, WebSockets, and Cloud infrastructure.
 
 ---
 
