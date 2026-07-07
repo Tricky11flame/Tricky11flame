@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Tricky11flame/Tricky11flame/blob/main/linkin.png" alt="Banner" />
+  <img src="https://github.com/Tricky11flame/Tricky11flame/blob/main/banner.jpg" alt="Banner" />
 </p>
 
 <p align="center">
