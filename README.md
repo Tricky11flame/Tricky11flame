@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tricky11flame/Tricky11flame/main/banner.jpg" width="100%" height="250" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Tricky11flame/Tricky11flame/main/banner.jpg" width="100%"  alt="Banner" />
 </p>
 
 <p align="center">
